@@ -1,3 +1,15 @@
+# React Image Gallery Technical Exercise 
+
+This is a technical exercise to fetch data from an API and display on the front end using the latest React.
+
+Built with:<br/>
+React 17.0.2<br/>
+Node: 14.17.4<br/>
+Package Manager: npm 7.20.3
+
+To view the live demo: http://www.raychavezweb.com/react-demo/index.html
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
